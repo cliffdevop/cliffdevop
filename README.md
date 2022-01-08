@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cliffdevop
-- 👀 I’m interested in python and JS
+- 👀 I’m interested in developing on python and JS
 - 🌱 I’m currently learning and could use some professional coaching and touch :) 
 - 💞️ I’m looking to collaborate with a pro on these languages.
 - 📫 I can be reached on +46790185558
