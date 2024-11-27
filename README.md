@@ -1,11 +1,13 @@
-<h1>Hi, I'm Clifford! <br/><a href="https://github.com/cliffdevop" >Cybersecurity Professional</a>
+<h1>Hi, I'm Clifford! <br/><a href="https://github.com/cliffdevop" > A Cybersecurity Professional.</a>
+
+## Objectives:
+I am an undergraduate student, pursuing a degree in IT focusing on Cybersecurity and Network Administration. I have a profound interest in technology and a dedication to solving complex problems.
+
+My journey in Information and Technology has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 <h2>👨‍💻 Cybersecurity and Network Administration Management Projects:</h2>
 
-I am an undergraduate student, pursuing a degree in IT focusing on Cybersecurity and Network Administration. I have a profound interest in technology and a dedication to solving complex problems.
-
-## Objective
-My journey in Information and Technology has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- Proxmox Virtual Environment Project:
 
 ## Skills
 
