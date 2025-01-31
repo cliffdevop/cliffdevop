@@ -7,9 +7,9 @@ My journey in Information and Technology has led me to develop a passion for Cyb
 
 <h2>👨‍💻 Cybersecurity and Network Administration Management Projects:</h2>
 
-- <b>Active Directory Project</b>
+- Proxmox Virtual Environment Project: <a href="https://github.com/cliffdevop/Proxmox_VMs_Config"> Proxmox Lab</a>
 
-- Proxmox Virtual Environment Project: <a href="https://github.com/cliffdevop/Proxmox_VMs_Config">Proxmox Lab</a>
+- Active Directory Project: <a href="https://github.com/cliffdevop/ActiveDirectoryLab">Active Directory Lab</a> 
 
 ## Skills
 
